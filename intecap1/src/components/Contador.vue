@@ -32,9 +32,7 @@ h1{
 }
 button{
   color: black;
-  text-align: center;
-  align-items: center;
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: 0 auto;
 }
 </style>
